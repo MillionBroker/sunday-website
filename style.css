@@ -1,0 +1,19 @@
+p{ color: blue; text-shadow: 2px 2px 5px #000; 
+}
+a{
+    color: #cc0000;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(18, 233, 72);
+    font-size: 100px;
+    
+}
+.img1{
+    border-style: solid 10px #ffff66; 
+    box-shadow: 10px 10px 5px #000;
+    width: 300px;
+}
+.img-circle{
+    border-radius: 500px;
+}
